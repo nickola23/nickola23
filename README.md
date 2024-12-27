@@ -1,5 +1,6 @@
 # Hi I'm Nikola! 👋
-## 🚀 About Me
+### 💻 I am a software engineering student at the Faculty of technical science in Novi Sad.
+### 🚀 I love hackathons.
 <!--
 **nickola23/nickola23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
