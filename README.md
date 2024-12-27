@@ -1,5 +1,5 @@
-## Hi I'm Nikola! 👋
-### 🚀 About Me
+# Hi I'm Nikola! 👋
+## 🚀 About Me
 <!--
 **nickola23/nickola23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
