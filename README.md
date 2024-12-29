@@ -1,4 +1,4 @@
-# Hi I'm Nikola! 👋
+# Hi, I'm Nikola! 👋
 ### 💻 I am a software engineering Student at the Faculty of Technical Sciences.
 ### 🌍 Currently residing at Novi Sad, Serbia.
 ### 🚀 I love hackathons.
